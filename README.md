@@ -1,5 +1,5 @@
 
-# Data Annlysis Project with Dask on E-commerce Events History of a cosmetic shop
+# Data Analysis Project with Dask on E-commerce Events History of a cosmetic shop
 
 This project is a groupwork with five members. The main purpose of this project is to clean, tidy and make analysis with a big dataset (2GB) using **Dask**. 
 
